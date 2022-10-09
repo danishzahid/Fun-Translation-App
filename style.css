@@ -1,0 +1,50 @@
+h1 {
+    background-color:  #339966;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    line-height: 200%;
+    color: #003399;
+}
+
+footer {
+    background-color: #339966;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    line-height: 200%;
+    color: #003399;
+}
+
+a {
+    text-decoration: none;
+    color: #003399;
+
+}
+
+a:hover {
+    color: white;
+}
+
+#btn-translate {
+    margin: 1rem;
+    border: 2px solid black;
+    padding: 0.5rem;
+    background-color: #003399;
+    color: white;
+    font-weight: bold;
+}
+#btn-translate:hover{
+    color: black;
+    background-color: #003399;
+    border: 2px solid white;
+}
+
+.container {
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+    background-color:   #b3e6cc;
+}
